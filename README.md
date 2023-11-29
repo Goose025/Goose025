@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Goose025
-- 👀 I’m interested in learning languages or developing websites 
-- 🌱 I’m currently learning Romanian 
+- 👋 Hallo, I’m @Goose025
+- 👀 I’m interested in learning languages,history,geopolitics and developing websites 
+- 🇷🇴 I’m currently learning Romanian 
 - 📫 How to reach me : u can add me on discord (goose_2409) 
 
 <!---
